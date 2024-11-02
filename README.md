@@ -1,17 +1,20 @@
-<<<<<<< HEAD
-_# Mon Projet
+# Jersey Project
 
-## Vidéos de démonstration
+Ce projet est un exemple d'application utilisant Jersey pour créer une API RESTful.
 
-### Démonstration JSON
-Voici une démonstration de l'utilisation du format JSON.
+## Test avec Postman
 
-[![Démonstration JSON](https://img.youtube.com/vi/ID_DE_LA_VIDEO/maxresdefault.jpg)](videos/json.mp4)
+Pour tester monsieur l'API, vous pouvez utiliser les fichiers vidéo suivants :
 
-### Démonstration XML
-Voici une démonstration de l'utilisation du format XML.
+- [Vidéo JSON](https://drive.google.com/file/d/17LcguhtH7Ppo9QypGd3CZS-P32cgsd_c/view?usp=drive_link)
+- [Vidéo XML](https://drive.google.com/file/d/1pFMGeeIndVy6i4_1SnwZ5DS5cQoj5IxS/view?usp=drive_link)
 
-[![Démonstration XML](https://img.youtube.com/vi/ID_DE_LA_VIDEO/maxresdefault.jpg)](videos/xml.mp4)_
-=======
-# Jersey-Project
->>>>>>> origin/main
+Assurez-vous de télécharger les fichiers et de les visionner pour mieux comprendre le fonctionnement de l'API.
+
+## Installation
+
+1. Clonez ce dépôt.
+2. Assurez-vous d'avoir les dépendances nécessaires en exécutant :
+
+   ```bash
+   mvn install
